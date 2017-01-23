@@ -1,4 +1,4 @@
-# Python-Code
+# Python-C-SciComputing
 
 This repository contains code written and utilized during a graduate course in High-Performance scientific computing at the University of Washington in Spring of 2016. The course was hosted on github and code was written in Python/C and utilized open source tools such as OpenMP and MPI to implement optimized parallel computational routines. The purpose of this repository is to provide a small showcase of my ability to write code in the Python and C languages.
 ##Summary of projects
