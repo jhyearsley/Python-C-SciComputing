@@ -8,5 +8,4 @@ This repository contains code written during a graduate course in High-Performan
 * Assignment 3 - Used OpenMP to numerically calculate integrals using the trapezoidal/simpson rule algorithms in parallel. 
 * Assignment 4 - Wrote code to solve the heat-equation with a MPI methodology.
 
-##Navigating Through Repository
 
