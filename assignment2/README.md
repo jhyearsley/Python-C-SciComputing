@@ -9,7 +9,7 @@ it.*
 
 Repository layout:
 
-* `homework2/`:
+* `Python Wrappers/`:
 
   Python wrapper of C library. The functions defined here allow you to use your
   C code from within Python. The test suite calls these functions which, in
